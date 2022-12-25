@@ -1,0 +1,7 @@
+# Default ignored files
+.ides/
+__pychache__/
+build/
+dist/
+config.ini
+AutoWifi.spec
