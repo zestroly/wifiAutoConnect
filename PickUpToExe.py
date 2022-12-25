@@ -2,4 +2,4 @@
 import os
 import sys
 
-os.system('pyinstaller -F AutoWifi.py')
+os.system('pyinstaller -F AutoWifi.py --noconsole')
