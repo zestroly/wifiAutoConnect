@@ -2,4 +2,4 @@
 import os
 import sys
 
-os.system('pyinstaller -F AutoWifi.py --noconsole')
+os.system('pyinstaller -F -w -i AutoWifi.ico AutoWifi.py')
